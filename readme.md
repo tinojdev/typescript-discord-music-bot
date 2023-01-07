@@ -8,7 +8,6 @@ A fully featured music bot for discord!
 -   Play any playlist
 -   Skip songs, remove, songs from queue, move songs in queue
 -   Each user can select custom prefix
--
 
 ## Installation
 
