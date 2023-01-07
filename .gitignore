@@ -1,0 +1,7 @@
+/node_modules/
+/prod/
+/.vscode/
+.env
+/logs/
+/database/**.json
+config.json
